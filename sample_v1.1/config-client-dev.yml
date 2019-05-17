@@ -2,3 +2,4 @@ server:
   port: 9090
 foo: foo dev version 1.1
 test: dev
+profile: dev-refresh-mq-by-server-v1.1

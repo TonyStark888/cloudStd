@@ -2,3 +2,4 @@ server:
   port: 9091
 foo: foo sit version 1.1
 test: sit
+profile: sit-refresh-mq-by-server-v1.1
